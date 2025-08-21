@@ -1,6 +1,6 @@
 # TechStaCon
 
-TechStaCon CYBER PUNK CTF I-24
+TechStaCon CYBER PUNK CTF
 
 The CTF is designed for the Tech Starter Conference (TechStaCin) on 3rd February 2024
 
